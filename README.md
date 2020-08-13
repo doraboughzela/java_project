@@ -1,5 +1,3 @@
-**Mémoire de session pour le cours Programmation 1 - semestre d'été 2020**
-
 **Structure des dossiers**
 
 Le dossier de définition de tâche contient la tâche à traiter    
